@@ -1,0 +1,20 @@
+your-repo/
+├── public/
+│   ├── index.html
+│   ├── about.html
+│   ├── system.html
+│   ├── products.html
+│   ├── pricing.html
+│   ├── strategy-call.html
+│   ├── monday-brief.html
+│   ├── pressure-test.html
+│   ├── cohort.html
+│   ├── keynote.html
+│   ├── privacy.html
+│   ├── terms.html
+│   ├── sitemap.xml
+│   ├── robots.txt
+│   ├── css/
+│   ├── js/
+│   └── images/
+└── .gitlab-ci.yml         ← NEW FILE, lives in ROOT
